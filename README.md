@@ -21,7 +21,7 @@
 - [GDG Kazan](vk.com/club119719934) {Казань}
 - [DevsDay](vk.com/club172098156) {Россия}
 - [ITIS media](vk.com/club153470393) {Казань}
-- IT-events https://it-events.com/goroda/Kazan_41 {Казань}
+- [IT-events](https://it-events.com/goroda/Kazan_41) {Казань}
 - https://t.me/innoevents {Иннополис}
 - https://devsday.ru {Татарстан}
 - https://golang-tatarstan.timepad.ru/ {Татарстан}
