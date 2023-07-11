@@ -15,6 +15,7 @@
 - [GrowUp коворкинг](vk.com/club148083813) {Казань}
 - [Штаб](vk.com/club89349504) {Казань}
 - [Телеграф Space](vk.com/club23100932) {Казань}
+- [Тинькофф](https://t.me/itstinkoff) {Казань}
 
 ## Media (объявления, анонсы, реклама)
 
@@ -34,6 +35,7 @@
 - [Infotech Group](vk.com/club126640594) {Казань}
 - [iSpring](vk.com/club32877529) {Йошкар-Ола}
 - https://www.sputnik.systems {Казань}
+- [Тинькофф](https://t.me/itstinkoff) {Казань}
 
 ## Partners (помощь в организации)
 
@@ -41,3 +43,4 @@
 - [Город Иннополис](vk.com/club39826117) {Иннополис}
 - [GDG Kazan](vk.com/club119719934) {Казань}
 - [IT Park](vk.com/club60028089) {Казань}
+- [Тинькофф](https://t.me/itstinkoff) {Казань}
